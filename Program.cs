@@ -7,6 +7,7 @@ namespace VisualStudio2019CsharpGitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("New change");
         }
     }
 }
